@@ -1,7 +1,32 @@
 {
   "de": {
     "date": "2026-03-24",
-    "commit": "e8ef2eb",
-    "label": ""
+    "commit": "810a69b",
+    "label": "Fix Spanish babel"
+  },
+  "en": {
+    "date": "2026-03-24",
+    "commit": "810a69b",
+    "label": "Fix Spanish babel"
+  },
+  "es": {
+    "date": "2026-03-24",
+    "commit": "810a69b",
+    "label": "Fix Spanish babel"
+  },
+  "pt": {
+    "date": "2026-03-24",
+    "commit": "810a69b",
+    "label": "Fix Spanish babel"
+  },
+  "fr": {
+    "date": "2026-03-24",
+    "commit": "810a69b",
+    "label": "Fix Spanish babel"
+  },
+  "ru": {
+    "date": "2026-03-24",
+    "commit": "810a69b",
+    "label": "Fix Spanish babel"
   }
 }
